@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Welcome to my GitHub repository, where I showcase a diverse collection of web development projects. This repository serves as a portfolio of my work, featuring a variety of interactive and visually compelling projects built using modern web technologies.
 <!--
 **Ryan-Adams57/Ryan-Adams57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
