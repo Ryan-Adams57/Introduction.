@@ -7,4 +7,3 @@
 - 📫 How to reach me: ... Email me @ryan.adams1277@gmail.com.
 - 😄 Pronouns: ... He/Him.
 - ⚡ Fun fact: ... I was adopted when I was one years old.
-**Ryan-Adams57/Ryan-Adams57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
