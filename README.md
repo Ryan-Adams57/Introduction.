@@ -42,6 +42,8 @@
   <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" />
 </p>
 
+<hr>
+
 ## ⚡️ Stats
 
 <br>
@@ -51,6 +53,8 @@
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=ryanadams&theme=transparent&count_private=true&border_radius=10&locale=en" alt="RyanAdams's" />
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=ryanadams&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="RyanAdams's Most Used Languages" />
 </div>
+
+<hr>
 
 ## 🐍 My Contributions
 
