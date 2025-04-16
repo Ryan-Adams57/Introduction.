@@ -3,7 +3,7 @@
   <img src="https://profile-counter.glitch.me/RyanAdams/count.svg" alt="Visitor's Count" />
 </div>
 
-<"https://github.com/Ryan-Adams57/Introduction./blob/main/Microsoft%20365%20Admin.jpeg">
+<https://github.com/Ryan-Adams57/Introduction./blob/5e260700d9ea0ca352b599d92938d4d1f6098814/Microsoft%20365%20Admin.jpeg">
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Ryan+Adams!;" />
