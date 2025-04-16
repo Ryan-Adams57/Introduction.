@@ -1,5 +1,5 @@
 <div align="center"> 
-  <p>Visitor count</p>
+  <p>Visitor Count</p>
   <img src="https://profile-counter.glitch.me/RyanAdams/count.svg" alt="Visitor's Count" />
 </div>
 
