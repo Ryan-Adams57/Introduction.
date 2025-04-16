@@ -70,9 +70,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [What is DNS (Domain Name System)?](https://medium.com/@ryan.adams1277/what-is-dns-domain-name-system-cffe962b27c8)
-- [Setting Up Printers, User Permissions, and Printer Sharing on a Windows Server VM](https://medium.com/@ryan.adams1277/setting-up-printers-user-permissions-and-printer-sharing-on-a-windows-server-vm-97bef4209c68)
-- [What is Active Directory (AD)?](https://medium.com/@ryan.adams1277/what-is-active-directory-ad-9b32b16b5161)
-- [Implementing Zero Trust with Azure AD](https://medium.com/@ryan.adams1277/implementing-zero-trust-with-azure-ad-5ed7edd2ecdf)
-- [10 Useful Windows Run Commands (Win + R)](https://medium.com/@ryan.adams1277/10-useful-windows-run-commands-win-r-367c27d4b07e)
+- [What is DHCP &lpar;Dynamic Host Configuration Protocol&rpar;?](https://medium.com/@ryan.adams1277/what-is-dhcp-dynamic-host-configuration-protocol-afdb3aa713e2?source=rss-e21fdbe6f1b3------2)
+- [What is DNS &lpar;Domain Name System&rpar;?](https://medium.com/@ryan.adams1277/what-is-dns-domain-name-system-cffe962b27c8?source=rss-e21fdbe6f1b3------2)
+- [10 Useful Mac Run Commands &lpar;Command + Space&rpar;.](https://medium.com/@ryan.adams1277/10-useful-mac-run-commands-command-space-57ad200463da?source=rss-e21fdbe6f1b3------2)
+- [Great News for Entra ID Admins!](https://medium.com/@ryan.adams1277/great-news-for-entra-id-admins-936e826fec6c?source=rss-e21fdbe6f1b3------2)
+- [Deploying Windows LAPS: A Secure Solution for Managing Local Administrator Accounts.](https://medium.com/@ryan.adams1277/deploying-windows-laps-a-secure-solution-for-managing-local-administrator-accounts-fb8c782999ee?source=rss-e21fdbe6f1b3------2)
 <!-- BLOG-POST-LIST:END -->
