@@ -67,7 +67,6 @@
 
 <hr>
 
-
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [What is DNS (Domain Name System)?](https://medium.com/@ryan.adams1277/what-is-dns-domain-name-system-cffe962b27c8)
