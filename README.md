@@ -6,7 +6,7 @@
 <img src="https://github.com/Ryan-Adams57/Introduction./blob/5e260700d9ea0ca352b599d92938d4d1f6098814/Microsoft%20365%20Admin.jpeg?raw=true" alt="Banner of a Microsoft 365 Administrator sitting at a desk">
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Ryan+Adams!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Ryan+!;" />
 </h1>
 
 ### Certified Microsoft 365 Administrator
