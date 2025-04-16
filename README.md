@@ -54,18 +54,6 @@
 
 <hr>
 
-## 🐍 My Contributions
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RyanAdams/RyanAdams/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RyanAdams/RyanAdams/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/RyanAdams/RyanAdams/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
-<hr>
-
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [What is DNS (Domain Name System)?](https://medium.com/@ryan.adams1277/what-is-dns-domain-name-system-cffe962b27c8)
