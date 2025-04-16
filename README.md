@@ -10,7 +10,8 @@
 ### Certified Microsoft 365 Administrator
 
 - 🌱 I’m currently learning **Cybersecurity**
-- 💬 Ask me about **Java, Node.js, React...or anything [here](https://github.com/RyanAdams/RyanAdams/issues)**
+- 💬 Ask me about **Java, Node.js, React...or anything [here](https://github.com/Ryan-Adams57)**  
+
 <br>
 
 <div align="center">
