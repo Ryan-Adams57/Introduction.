@@ -14,16 +14,16 @@
 <br>
 
 <div align="center">
-  <a href="mailto:ryanadams@gmail.com">
+  <a href="mailto:ryan.adams1277@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/ryanadams" target="_blank">
+  <a href="https://www.linkedin.com/in/ryan-adamsz7157" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://medium.com/@ryanadams" target="_blank">
+  <a href="https://medium.com/@ryan.adams1277" target="_blank">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" target="_blank" />
   </a>
-  <a href="https://codepen.io/ryanadams" target="_blank">
+  <a href="https://codepen.io/Ryan-1957" target="_blank">
     <img src="https://img.shields.io/badge/CodePen-1e1f26?style=for-the-badge&logo=codepen&logoColor=white" target="_blank" />
   </a>
 </div>
